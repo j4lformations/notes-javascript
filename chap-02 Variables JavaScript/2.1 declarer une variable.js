@@ -26,5 +26,5 @@ let autreVariable = '........';
 // On ne peut pas declarer plusieurs fois la meme variable avec le mot clé let
 let autreVariable = '.........'; // => SyntaxError: Identifier 'maVariable' has already been declared
 
-let 8autreVariable = 25; // => SyntaxError: Invalid or unexpected token
+// let 8autreVariable = 25; // => SyntaxError: Invalid or unexpected token
 
